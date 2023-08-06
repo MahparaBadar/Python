@@ -1,0 +1,40 @@
+                    "HELLO WORLD" WITH FIVE DIFFERENT METHODS IN PYTHON
+
+
+(1)   "Hello World" with Console
+
+                    search menu ----> anaconda prompt/cmd
+                    python
+                    "Hello World"
+
+
+(2)   "Hello World" with Physical File
+
+                    copy your folder location
+                    search ----> anaconda/cmd
+                    folder ----> create new file ----> abc.py
+                    open abc.py on notepad
+                    python <filename.py>
+
+
+(3)   "Hello World" with VS Code Software
+
+                    search menu ----> anaconda prompt/cmd
+                    cd <folder path>
+                    code .
+                    explorer ----> folder
+                    new file ----> abc.py
+
+
+(4)   "Hello World" with VS code Jupyter Notebook
+
+                    new file ----> abc.ipynb
+
+
+(5)   "Hello World" with Jupyter Notebook
+
+                    search menu ----> anaconda prompt/cmd
+                    cd <paste path>
+                    jupyter notebook
+                    New ----> Python3(kernel)
+                    
